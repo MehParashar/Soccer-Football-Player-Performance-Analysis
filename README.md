@@ -121,48 +121,6 @@ key_stats (list): The list of key statistics to plot.
     plot_player_attributes('Defender', 'Vitor Costa', players_df, key_stats)
 ----------------------------------------------------------------------------------
 
-OUTPUTS
-
-            Player_misc Nation_misc Pos_misc   Squad_misc Age_misc Born_misc  \
-0            Liel Abada      il ISR       FW    Charlotte   22-236      2001   
-1  Jose Casas de Abadal      us USA    FW,DF  Inter Miami   23-341      2000   
-2            Luis Abram      pe PER       DF  Atlanta Utd   28-089      1996   
-3        Lalas Abubakar      gh GHA    DF,MF       Rapids   29-153      1994   
-4         Kellyn Acosta      us USA       MF         Fire   28-307      1995   
-
-  90s_misc        Player_passing Nation_passing Pos_passing  ... Int_misc  \
-0      4.0            Liel Abada         il ISR          FW  ...        1   
-1      0.3  Jose Casas de Abadal         us USA       FW,DF  ...        0   
-2      7.5            Luis Abram         pe PER          DF  ...        6   
-3      1.2        Lalas Abubakar         gh GHA       DF,MF  ...        2   
-4     12.2         Kellyn Acosta         us USA          MF  ...       20   
-
-  TklW_misc PKwon_misc PKcon_misc OG_misc Recov_misc Won_misc Lost_misc  \
-0         3          0          0       0         10        0         8   
-1         0          0          0       0          0        0         0   
-2         3          0          0       0         27       10        10   
-3         0          0          0       0          7        5         3   
-4        13          0          0       0         64        7         5   
-
-  Won%_misc       position_group  
-0       0.0             Forwards  
-1         0            Wing-Back  
-2      50.0             Defender  
-3      62.5             Defender  
-4      58.3  Central Midfielders  
-
----------------------------------------------------------------------------------------
-
-Top GKs
-           Player_misc   Squad_misc  Rank  TklW_misc  Recov_misc
-574       Zack Steffen       Rapids  15.5          0          31
-88           Alex Bono  D.C. United  14.5          0          29
-455       Maarten Paes    FC Dallas  14.0          0          28
-387          Tim Melia  Sporting KC  13.5          0          27
-306  Kristijan Kahlina    Charlotte  12.0          0          24
-
-
-
 
 
 
